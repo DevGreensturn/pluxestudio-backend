@@ -1,0 +1,11 @@
+/*===================================== 
+YOU CAN WRIGHT CUSTOME CSS 
+======================================*/
+.icon-count-2-outer .icon-count-2
+{
+        display: flex !important;
+    flex-direction: column !important;
+    align-items: center;
+    justify-content: center;
+    padding-top : 30px !important;
+}
